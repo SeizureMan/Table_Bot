@@ -1,12 +1,9 @@
 Table_Bot
 =========
 
-Read me                       No me
+https://praw.readthedocs.org/en/latest/pages/getting_started.html
+www.reddit.com/dev/api
 
 
 
-
-Or me 
-
-
-                      help
+                      Billy Markovsky is a DANGOOSE
