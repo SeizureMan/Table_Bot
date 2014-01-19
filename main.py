@@ -14,3 +14,4 @@ reddit = praw.Reddit(user_agent = user_agent)
 #this tells reddit what bot we are
 
 subreddit = r.get_subreddit("IAMA")
+#this puts us in the IAMA subreddit
