@@ -16,4 +16,5 @@ reddit = praw.Reddit(user_agent = user_agent)
 subreddit = r.get_subreddit("IAMA")
 #this puts us in the IAMA subreddit
 
-for submission in subreddit.get_hot(limit=10):
+for submission in subreddit.get_hot(limit=1):
+  forest_comments = submission.comments
